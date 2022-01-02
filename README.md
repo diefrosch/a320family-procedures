@@ -11,6 +11,16 @@ This is a draft of a Quick Start Guide for the A320-family aircraft for FlightGe
 * `5`: Rear pedestal
 * `6`: Center panel/Autopilot FCU
 
+### Throttle
+* `F`: Set TO/GA thrust
+* `ctrl-F`: Set MCT/FLEX thrust
+* `shift-F`: Set CLB thrust
+* `E`: Set idle thrust
+* `delete`: Set max reverse thrust
+
+### Other
+* `B`: Cycle speedbrakes
+
 ## Basic procedures
 ### Cold and dark startup
 
