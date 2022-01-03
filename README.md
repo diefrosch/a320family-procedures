@@ -137,19 +137,19 @@ We are going to set up the FMS for a short flight from Frankfurt (EDDF) to Paris
 
 #### Initial setup
 
-* On the initial menu screen press `1L` to select `FMGC`
-* Press the `INIT` key in the top row of the keyboard
-* Type `EDDF/LFPG` and press `1R` (`FROM/TO`)
-* Type a flight number of your choice and press `L3` (`FLT NBR`)
-* Type `50` and press `L5` (`COST INDEX`)
-* Type `270` and press `L6` (`CRZ FL/TEMP`)
+* On the initial menu screen press `1L` to select `FMGC`.
+* Press the `INIT` key in the top row of the keyboard.
+* Type `EDDF/LFPG` and press `1R` (`FROM/TO`).
+* Type a flight number of your choice and press `L3` (`FLT NBR`).
+* Type `50` and press `L5` (`COST INDEX`).
+* Type `270` and press `L6` (`CRZ FL/TEMP`).
 
 #### Flight Plan
 
 * Press the `FPLN` key to go to the flight plan page
-* Type `LIMGO` and press the LSK to the left of `F-PLN DISCONTINUITY`; the discontinuity shifts down and `LIMGO` is inserted in between
+* Type `LIMGO` and press the LSK to the left of `F-PLN DISCONTINUITY`; the discontinuity shifts down and `LIMGO` is inserted in between.
 * Repeat the previous step for waypoints `MEDOX` and `SUIPE`.
-* Press the `CLR` key and press the `LSK` to the left of `F-PLN DISCONTINUITY` to clear it
+* Press the `CLR` key and press the `LSK` to the left of `F-PLN DISCONTINUITY` to clear it.
 * Press `R6` (`TMPY INSERT`) to insert your flight plan.
 
     To scroll the view use the UP and DOWN arrow keys (they move the view, so they do the opposite of what you think – use UP to go down and vice versa). [has this changed recently??]
@@ -157,7 +157,7 @@ We are going to set up the FMS for a short flight from Frankfurt (EDDF) to Paris
 
 #### Other Settings
 
-* Press `PERF` to go to the performance settings page
+* Press `PERF` to go to the performance settings page.
 * Set `138`, `142` and `146` as `V1`, `VR` and `V2` respectively.
 * Set `5000` as `TRANS ALT`.
 * Set the `FLAPS/THS` field to `3`.
