@@ -18,6 +18,10 @@ This is a draft of a Quick Start Guide for the A320-family aircraft for FlightGe
 * `E`: Set idle thrust
 * `delete`: Set max reverse thrust
 
+### Autopilot
+* `shift-D`: Disconnect autopilot
+* `ctrl-D`: Disconnect autothrust
+
 ### Other
 * `B`: Cycle speedbrakes
 
