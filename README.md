@@ -88,6 +88,7 @@ This is a draft of a Quick Start Guide for the A320-family aircraft for FlightGe
 
 * `Shift-D` to disengage the autopilot. (Shift-D again to silence A/P disconnect alarms.)
 * `Control-D` to disengage the autothrust.
+
 CAVEAT: the AP will refuse to engage if the rudder is not centered.
 
 ### Modes of operation
