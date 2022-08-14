@@ -112,7 +112,6 @@ At the time of this writing [Dec. 2021] managed altitude is not yet fully implem
 **For `V/S` mode:**
 
 * Dial the altitude using the knob. (Shift-mousewheel to go faster.)
-* Push the altitude knob to go into Vertical Speed (V/S) mode.
 * Set the desired vertical speed with the V/S knob. (Set a negative value if you want to descend.) The autopilot will climb/descend at the selected vertical speed until it reaches the set altitude.
 * The A/P will try to maintain current speed by adjusting the thrust.
 
@@ -160,9 +159,11 @@ We are going to set up the FMS for a short flight from Frankfurt (EDDF) to Paris
 #### Other Settings
 
 * Press `PERF` to go to the performance settings page.
-* Set `138`, `142` and `146` as `V1`, `VR` and `V2` respectively.
+* Set `130`, `131` and `134` as `V1`, `VR` and `V2` respectively.
 * Set `5000` as `TRANS ALT`.
 * Set the `FLAPS/THS` field to `3`.
+
+(Make sure you actually set the flaps to 3 for takeoff.)
 
 Just prior to takeoff click on the airspeed and the heading knobs on the FCU (the autopilot control panel) to put them in managed mode. When airborne and stabilized in a climb, click on the `AP1` button – the autopilot will follow the route that you entered in the FMS.
 
