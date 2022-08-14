@@ -153,7 +153,7 @@ We are going to set up the FMS for a short flight from Frankfurt (EDDF) to Paris
 * Press the `CLR` key and press the `LSK` to the left of `F-PLN DISCONTINUITY` to clear it.
 * Press `R6` (`TMPY INSERT`) to insert your flight plan.
 
-    To scroll the view use the UP and DOWN arrow keys (they move the view, so they do the opposite of what you think – use UP to go down and vice versa). [has this changed recently??]
+    To scroll the view use the UP and DOWN arrow keys.
     To delete what you write in the scratchpad use the CLR key.
 
 #### Other Settings
