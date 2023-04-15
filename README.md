@@ -16,14 +16,14 @@ This is a draft of a Quick Start Guide for the A320-family aircraft for FlightGe
 * `ctrl-F`: Set MCT/FLEX thrust
 * `shift-F`: Set CLB thrust
 * `E`: Set idle thrust
-* `delete`: Set max reverse thrust
+* `delete`: Toggle reverse thrust
 
 ### Autopilot
 * `shift-D`: Disconnect autopilot
 * `ctrl-D`: Disconnect autothrust
 
 ### Other
-* `B`: Cycle speedbrakes
+* `ctrl-B`: Cycle speedbrakes
 
 ## Basic procedures
 ### Cold and dark startup
