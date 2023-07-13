@@ -131,9 +131,9 @@ For normal operation, `OP CLB/OP DES` is the preferred mode.
 * These units are called the `MCDU`s (Multifunction Control and Display Units).
 * The MCDU screen consists of 12 data fields (6 on the left and 6 on the right) and a bottom row called the scratchpad.
 * On both sides of the screen are 6 buttons called the line select keys; they are numbered `L1` to `L6` on the left and `R1` to `R6` on the right.
-* You enter data by typing it in the scratchpad and then pressing the line select key next to the data field into which you want to insert it.
+* You enter data by typing it in the scratchpad and then pressing the line select key next to the data field into which you want to insert it. (To type, use the MCDU keyboard.)
+
 * You clear a field (or restore it to its default value) by pressing the `CLR` key and then the line select key of the relevant data field.
-* To type, click with the mouse on the MCDU keyboard.
 
 ### Example setup
 
