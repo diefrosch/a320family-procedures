@@ -100,20 +100,14 @@ The Airbus autopilot has two modes of operation, *selected* and *managed*.
 
 Selected and managed modes can be set independently for speed, heading and altitude. Initially, all three parameters are set to selected mode.
 
-* To engage managed mode, push (left click) the relevant knob. The display shows all dashes. [Except for altitude?]
+* To engage managed mode, push (left click) the relevant knob. The display shows all dashes. [Except for altitude.]
 * To return to selected mode, pull (middle click) the relevant knob. The set value reappears on the display.
 
 NOTE: There is no managed mode for vertical speed. Clicking on the V/S knob will level off the plane.
 
 ### Altitude management
 
-At the time of this writing [Dec. 2021] managed altitude is not yet fully implemented. To manage the altitude you can choose between Vertical Speed (`V/S`) mode and Open Climb/Open Descent (`OP CLB/OP DES`) mode.
-
-**For `V/S` mode:**
-
-* Dial the altitude using the knob. (Shift-mousewheel to go faster.)
-* Set the desired vertical speed with the V/S knob. (Set a negative value if you want to descend.) The autopilot will climb/descend at the selected vertical speed until it reaches the set altitude.
-* The A/P will try to maintain current speed by adjusting the thrust.
+At the time of this writing [Dec. 2021] managed altitude is not yet fully implemented. To manage the altitude you can choose between Open Climb/Open Descent (`OP CLB/OP DES`) mode and Vertical Speed (`V/S`) mode.
 
 **For `OP CLB/OP DES` mode:**
 
@@ -121,6 +115,12 @@ At the time of this writing [Dec. 2021] managed altitude is not yet fully implem
 * Pull the altitude knob to go into Open Climb/Open Descent mode.
 * The autopilot will set climb/idle thrust and will climb/descend to the set altitude.
 * The A/P will maintain current speed using pitch.
+
+**For `V/S` mode:**
+
+* Dial the altitude using the knob. (Shift-mousewheel to go faster.)
+* Set the desired vertical speed with the V/S knob. (Set a negative value if you want to descend.) The autopilot will climb/descend at the selected vertical speed until it reaches the set altitude.
+* The A/P will try to maintain current speed by adjusting the thrust.
 
 For normal operation, `OP CLB/OP DES` is the preferred mode.
 
@@ -158,6 +158,8 @@ We are going to set up the FMS for a short flight from Frankfurt (EDDF) to Paris
 
     To scroll the view use the UP and DOWN arrow keys.
     To delete what you write in the scratchpad use the CLR key.
+
+  NOTE: FlightGear's default Route Manager is incompatible with the A320's FMS and cannot be used.
 
 #### Other Settings
 
