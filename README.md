@@ -89,7 +89,7 @@ This is a draft of a Quick Start Guide for the A320-family aircraft for FlightGe
 * `Shift-D` to disengage the autopilot. (Shift-D again to silence A/P disconnect alarms.)
 * `Control-D` to disengage the autothrust.
 
-CAVEAT: the AP will refuse to engage if the rudder is not centered.
+CAVEAT: the AP will refuse to engage if flight controls (including the rudder) are not centered.
 
 ### Modes of operation
 
@@ -113,14 +113,14 @@ At the time of this writing [Dec. 2021] managed altitude is not yet fully implem
 
 * Dial the altitude using the knob.
 * Pull the altitude knob to go into Open Climb/Open Descent mode.
-* The autopilot will set climb/idle thrust and will climb/descend to the set altitude.
-* The A/P will maintain current speed using pitch.
+* The A/T (autothrust) will set climb/idle thrust and the plane will climb/descend to the set altitude.
+* The A/P (autopilot) will maintain speed using pitch.
 
 **For `V/S` mode:**
 
 * Dial the altitude using the knob. (Shift-mousewheel to go faster.)
-* Set the desired vertical speed with the V/S knob. (Set a negative value if you want to descend.) The autopilot will climb/descend at the selected vertical speed until it reaches the set altitude.
-* The A/P will try to maintain current speed by adjusting the thrust.
+* Set the desired vertical speed with the V/S knob. (Set a negative value if you want to descend.) The A/P will climb/descend at the selected vertical speed until it reaches the set altitude.
+* The A/T will try to maintain speed by adjusting the thrust.
 
 For normal operation, `OP CLB/OP DES` is the preferred mode.
 
