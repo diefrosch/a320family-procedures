@@ -119,7 +119,8 @@ At the time of this writing [Dec. 2021] managed altitude is not yet fully implem
 **For `V/S` mode:**
 
 * Dial the altitude using the knob. (Shift-mousewheel to go faster.)
-* Set the desired vertical speed with the V/S knob. (Set a negative value if you want to descend.) The A/P will climb/descend at the selected vertical speed until it reaches the set altitude.
+* Set the desired vertical speed with the V/S knob. (Set a negative value if you want to descend.)
+* The A/P will climb/descend at the selected vertical speed until it reaches the set altitude.
 * The A/T will try to maintain speed by adjusting the thrust.
 
 For normal operation, `OP CLB/OP DES` is the preferred mode.
