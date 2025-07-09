@@ -46,12 +46,13 @@ This is a draft of a Quick Start Guide for the A320-family aircraft for FlightGe
 ### Before take-off
 
 * Parking brake SET [shift-B]
+* [overhead] Landing lights ON
 * Auto-brakes MAX
 * Gnd spoilers ARMED [click on the lever handle]
 * Flaps T/O
 * TCAS TA/RA [click 4 times on the knob]
 * Cabin signs ON (Seat belts - No smoking)
-* Landing lights ON
+* [pedestal] TO CONFIG [press and hold for 1 sec.]
 
 ### Take-off
 
